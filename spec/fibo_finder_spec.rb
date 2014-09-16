@@ -1,5 +1,3 @@
-require 'spec_helper'
-
 describe "fibo finder" do
 
   it "returns the nth number of the fibonacci sequence" do
